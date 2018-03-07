@@ -1,1 +1,1 @@
-# horoscopes
+# repository for horoscopes
